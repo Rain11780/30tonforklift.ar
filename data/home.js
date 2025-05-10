@@ -1,241 +1,233 @@
 export const navbar = {
 	brand: {
-		name: "SOCMA 30 Ton Forklift",
+		name: "رافعة شوكية SOCMA 30 طن",
 		logo: "https://image.30tonforklift.com/home/logo.png"
 	},
 	menu: [
-		{ label: "Home", href: "/" },
-		// { label: "Collection", href: "/collection" },
-		// { label: "Product", href: "/product" },
-		{ label: "About", href: "/about" },
-		{ label: "Contact", href: "/contact" }
+		{ label: "الصفحة الرئيسية", href: "/" },
+		{ label: "معلومات عنا", href: "/about" },
+		{ label: "اتصل بنا", href: "/contact" }
 	],
 	button: {
-		text: "Free Quote",
-		title: "Request a Free Quote",
-		description: "Please provide any additional details or specific requirements..."
+		text: "عرض أسعار مجاني",
+		title: "طلب عرض أسعار مجاني",
+		description: "يرجى تقديم أي تفاصيل إضافية أو متطلبات محددة..."
 	}
 };
 
 export const hero = {
-	title: "SOCMA 30 Ton Forklift Built for Your Toughest Challenges",
-	focus: "SOCMA 30 Ton Forklift",
+	title: "رافعة شوكية SOCMA 30 طن مصممة لأصعب تحدياتك",
+	focus: "رافعة شوكية SOCMA 30 طن",
 	bg_image: "https://image.30tonforklift.com/home/hero.jpg",
-	description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond.",
+	description: "عزز عملياتك برافعة شوكية سعة 30 طن مصممة للصناعات الثقيلة. من التعامل مع الإطارات في تعدين الفحم إلى صهر الفولاذ باستخدام المغناطيسات الكهربائية، استخراج الأحجار، ولوجستيات الحاويات، تقدم SOCMA HNF-300 موثوقية لا مثيل لها. هل تبحث عن رافعة شوكية 30 طن للبيع أو للإيجار؟ نحن نغطيك – سواء في سيدني، مونتغمري، أو أبعد من ذلك.",
 	button: [
 		{
-			title: "Explore Products",
-			variant: "default",
+			title: "استكشف المنتجات",
+			variant: "افتراضي",
 			href: "/products"
 		},
 		{
-			title: "Custom Solutions",
-			variant: "outline",
+			title: "حلول مخصصة",
+			variant: "مخطط",
 			href: "/contact"
 		}
 	],
 	feature: [
 		{
-			title: "Targeted Solutions",
-			description: "Built for coal mining, steel handling, and stone quarrying."
+			title: "حلول مستهدفة",
+			description: "مصممة لتعدين الفحم، التعامل مع الفولاذ، واستخراج الأحجار."
 		},
 		{
-			title: "Custom Configurations",
-			description: "Add tire clamps, electromagnets, or pipe stabilizers"
+			title: "تكوينات مخصصة",
+			description: "أضف مشابك الإطارات، المغناطيسات الكهربائية، أو مثبتات الأنابيب."
 		},
 		{
-			title: "Competitive Pricing",
-			description: "Best 30 ton forklift price for top performance."
+			title: "أسعار تنافسية",
+			description: "أفضل سعر لرافعة شوكية 30 طن مع أداء عالي."
 		},
 		{
-			title: "Fast Delivery",
-			description: "60-day delivery with 1-year quality support."
+			title: "تسليم سريع",
+			description: "تسليم خلال 60 يومًا مع دعم جودة لمدة عام."
 		}
 	]
 };
 
 export const featuredCategories = {
-	title: "Real-World Applications of SOCMA 30 Ton Forklifts",
-	focus: "Real-World Applications",
-	cta_text: "View All Categories",
+	title: "تطبيقات العالم الحقيقي لرافعات شوكية SOCMA 30 طن",
+	focus: "تطبيقات العالم الحقيقي",
+	cta_text: "عرض جميع الفئات",
 	cta_link: "",
-	description: "Discover how SOCMA’s 30 ton forklifts empower industries worldwide. From mining to manufacturing, our heavy-duty solutions—available for 30 ton forklift rental or 30 ton forklift for sale—tackle the toughest challenges with precision and efficiency.",
+	description: "اكتشف كيف تمكّن رافعات SOCMA 30 طن الصناعات في جميع أنحاء العالم. من التعدين إلى التصنيع، تتغلب حلولنا للأعمال الثقيلة — المتوفرة للإيجار أو البيع — على أصعب التحديات بدقة وكفاءة.",
 	items: [
 		{
-			title: "Coal and Non-Ferrous Metal Mining",
-			focus: "Mining",
+			title: "تعدين الفحم والمعادن غير الحديدية",
+			focus: "التعدين",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/coal-and-non-ferrous-metal-mining.jpg",	
-			description: "Indonesia’s coal mines require robust lifting for vehicle maintenance. Our 30 ton forklift with tire clamps excels in harsh conditions. Diesel-powered with a 3500 mm lift height, it cuts downtime by 30%, ensuring efficient repairs."
+			description: "تتطلب مناجم الفحم في إندونيسيا رفعًا قويًا لصيانة المركبات. تتألق رافعة SOCMA 30 طن مع مشابك الإطارات في الظروف القاسية. تعمل بالديزل مع ارتفاع رفع يبلغ 3500 مم، تقلل من وقت التوقف بنسبة 30%، مما يضمن إصلاحات فعالة."
 		},
 		{
-			title: "Steel Smelting and Handling",
-			focus: "Steel",
+			title: "صهر ومناولة الفولاذ",
+			focus: "الفولاذ",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/steel-smelting-and-handling.jpg",
-			description: "In Brazil, steel plants need safe ladle handling. Our 30 ton forklift with electromagnets ensures precise steel profile transport. With a 5700 mm max lift and heat-resistant design, it boosts productivity by 25%, reducing risks."
+			description: "في البرازيل، تحتاج مصانع الفولاذ إلى مناولة آمنة للقوالب. تضمن رافعة SOCMA 30 طن مع المغناطيسات الكهربائية نقلًا دقيقًا لمقاطع الفولاذ. مع ارتفاع رفع أقصى يبلغ 5700 مم وتصميم مقاوم للحرارة، تزيد الإنتاجية بنسبة 25%، وتقلل المخاطر."
 		},
 		{
-			title: "Stone Quarrying",
-			focus: "Stone",
+			title: "استخراج الأحجار",
+			focus: "الأحجار",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/stone-quarrying.jpg",		
-			description: "South Africa’s quarries face rough terrain for stone block transport. Our 30 ton forklift with 410 mm ground clearance excels. Diesel-powered with reinforced forks, it ensures stability, speeding up operations by 20%"
+			description: "تواجه محاجر جنوب إفريقيا تضاريس وعرة لنقل كتل الحجارة. تتألق رافعة SOCMA 30 طن مع خلوص أرضي يبلغ 410 مم. تعمل بالديزل مع شوكات معززة، تضمن الاستقرار، وتسرع العمليات بنسبة 20%."
 		},
 		{
-			title: "Construction Projects",
-			focus: "Construction",
+			title: "مشاريع البناء",
+			focus: "البناء",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/construction-projects.jpg",
-			description: "In Peru, construction sites require heavy cement product lifting. Our 30 ton forklift with a 30,000 KGS capacity and 24 km/h speed excels. Its ergonomic controls reduce operator fatigue, cutting delays by 15%."
+			description: "في بيرو، تتطلب مواقع البناء رفع منتجات الأسمنت الثقيلة. تتألق رافعة SOCMA 30 طن بسعة 30,000 كجم وسرعة 24 كم/ساعة. تقلل أدوات التحكم المريحة من إجهاد المشغل، وتقلل التأخيرات بنسبة 15%."
 		},
 		{
-			title: "Petrochemical Industry",
-			focus: "Petrochemical",
+			title: "صناعة البتروكيماويات",
+			focus: "البتروكيماويات",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/petrochemical-industry.jpg",
-			description: "Nigeria’s oilfields need stable pipe transport in rugged environments. Our 30 ton forklift with pipe stabilizers ensures secure handling. Electric-powered for zero emissions, it reduces setup time by 20%, enhancing safety."
+			description: "تتطلب حقول النفط في نيجيريا نقلًا مستقرًا للأنابيب في بيئات وعرة. تضمن رافعة SOCMA 30 طن مع مثبتات الأنابيب مناولة آمنة. تعمل بالكهرباء لتكون خالية من الانبعاثات، تقلل من وقت الإعداد بنسبة 20%، وتعزز السلامة."
 		},
 		{
-			title: "Warehousing and Logistics",
-			focus: "Warehousing",
+			title: "التخزين واللوجستيات",
+			focus: "التخزين",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/warehousing-and-logistics.jpg",
-			description: "Malaysia’s ports demand efficient container handling. Our 30 ton forklift with container spreaders and serial bars manages heavy loads. With a 7260 mm turning radius, it improves dock efficiency by 30%, minimizing delays."
+			description: "تتطلب موانئ ماليزيا مناولة فعالة للحاويات. تدير رافعة SOCMA 30 طن مع موزعات الحاويات وأشرطة التسلسل الأحمال الثقيلة. مع نصف قطر دوران 7260 مم، تحسن كفاءة الرصيف بنسبة 30%، وتقلل التأخيرات."
 		},
 		{
-			title: "Rental and Heavy Lifting",
-			focus: "Rental",
+			title: "الإيجار والرفع الثقيل",
+			focus: "الإيجار",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/rental-and-heavy-lifting.jpg",
-			description: "In Thailand, logistics firms need flexible heavy lifting. Our 30 ton forklift rental handles oversized equipment. Configured with a 220 kN traction force, it offers cost-effective operations, reducing rental costs by 15%."
+			description: "في تايلاند، تحتاج شركات اللوجستيات إلى رفع ثقيل مرن. يتعامل إيجار رافعة SOCMA 30 طن مع المعدات كبيرة الحجم. مجهز بقوة سحب 220 كيلو نيوتن، يوفر عمليات اقتصادية، ويقلل تكاليف الإيجار بنسبة 15%."
 		},
 		{
-			title: "Manufacturing and Shipbuilding",
-			focus: "Construction",
+			title: "التصنيع وبناء السفن",
+			focus: "البناء",
 			slug: "/contact",
 			image: "https://image.30tonforklift.com/home/manufacturing-and-shipbuilding.jpg",
-			description: "Germany’s wind power plants move heavy wind tower parts. Our 30 ton forklift with a 5700 mm lift height and reinforced frame ensures precision. It boosts factory efficiency by 25%, solving slow material handling issues."
+			description: "تنقل مصانع طاقة الرياح في ألمانيا أجزاء أبراج الرياح الثقيلة. تضمن رافعة SOCMA 30 طن مع ارتفاع رفع 5700 مم وإطار معزز الدقة. تزيد من كفاءة المصنع بنسبة 25%، وتحل مشاكل مناولة المواد البطيئة."
 		}
 	]
 };
 
 export const customizableOptions = {
-	title: "SOCMA HNF300 30 Ton Forklift Configurations",
-	focus: "Configurations",
-	description: "SOCMA HNF300 30 Ton Forklift: Heavy-duty design with advanced features for superior performance, reliability, and efficiency in demanding industrial applications.",
+	title: "تكوينات رافعة شوكية SOCMA HNF300 30 طن",
+	focus: "التكوينات",
+	description: "رافعة شوكية SOCMA HNF300 30 طن: تصميم للأعمال الثقيلة مع ميزات متقدمة لأداء، موثوقية، وكفاءة فائقة في التطبيقات الصناعية الصعبة.",
 	items: [
 		{
-			title: "DRIVING AXLE",
-			id: "materials",
-			description: "Heavy-duty front axle with enlarged housing, hub, and bearings; spiral bevel and planetary gear for increased torque; steel structure ensures high load capacity and durability.",
+			title: "محور القيادة",
+			id: "المواد",
+			description: "محور أمامي للخدمة الثقيلة مع هيكل، محور عجلة، ومحامل مكبرة؛ تروس مخروطية حلزونية وكوكبية لزيادة عزم الدوران؛ هيكل فولاذي يضمن سعة تحميل عالية ومتانة.",
 			image: "https://image.30tonforklift.com/home/driving-axle.jpg",
 			options: [
-				{ title: "1", description: "The front axle adopts a heavy-duty forklift drive axle. The axle housing, wheel hub and bearing are enlarged in size. The spiral bevel gear and wheel side planetary gear reduce speed and increase the torque. The steel type axle housing support, ensure the large load capacity and long service life." },
-				{ title: "2", description: "Using non-spoke pressure plate rim, the wheel hub has a stronger bearing capacity and is convenient for maintenance and disassembly." },
-				{ title: "3", description: "The rear axle adopts a horizontal hydraulic cylinder steering mechanism. The steering axle has a compact structure and a steering angle is up to 70.5, which is beneficial to reduce steering resistance, reduce tire wear, and improve driving comfort." },
-				{ title: "4", description: "German Kessler driving axle is optional." }		
-				
-			
+				{ title: "1", description: "يتبنى المحور الأمامي محور قيادة رافعة شوكية للخدمة الثقيلة. تم تكبير هيكل المحور، محور العجلة، والمحمل. تقلل التروس المخروطية الحلزونية وتروس الكواكب الجانبية من السرعة وتزيد من عزم الدوران. يدعم هيكل المحور الفولاذي سعة تحميل كبيرة وعمر خدمة طويل." },
+				{ title: "2", description: "استخدام حافة لوحة ضغط بدون أضلاع، محور العجلة لديه سعة تحمل أقوى ومناسب للصيانة والتفكيك." },
+				{ title: "3", description: "يتبنى المحور الخلفي آلية توجيه بأسطوانة هيدروليكية أفقية. المحور التوجيهي له هيكل مدمج وزاوية توجيه تصل إلى 70.5، مما يساعد على تقليل مقاومة التوجيه، تقليل تآكل الإطارات، وتحسين راحة القيادة." },
+				{ title: "4", description: "محور القيادة الألماني Kessler اختياري." }		
 			]
 		},
 		{
-			title: "TRANSMISSION",
-			id: "TRANSMISSION",
-			description: "Planetary torque converter and transmission, R&D by SOCMA; high-strength hub reduction; 30 years of tech expertise ensures stability, reliability, and smooth gear shifts.",
+			title: "ناقل الحركة",
+			id: "ناقل الحركة",
+			description: "محول عزم دوران كوكبي وناقل حركة، تم تطويرهما بواسطة SOCMA؛ تقليل محور عالي القوة؛ خبرة تقنية تمتد لـ 30 عامًا تضمن الاستقرار، الموثوقية، وتغييرات سلسة للتروس.",
 			image: "https://image.30tonforklift.com/home/transmission.jpg",
 			options: [
-				{ title: "1", description: "tandard equipped with domestic famous brand planetary transmission, automatic shift transmission can change gears very smoothly, reliable, safe, and easy to maintain." },
-				{ title: "2", description: "It adopts double-turbo hydraulic torque converter, stepless speed change, single lever control speed change system, which makes the operation easier." },
-				{ title: "3", description: "Equipped With A Neutral Start Device, The Whole Machine Starts More Safety." },
-				{ title: "4", description: "Optional With Electric Transmission, Electric Control Valve, German ZF Transmission, And Power Shift Fixed Axis Hydraulic Transmission For Forklifts." }
-				
+				{ title: "1", description: "مجهز قياسيًا بناقل حركة كوكبي من ماركة وطنية معروفة، يمكن لناقل الحركة الأوتوماتيكي تغيير التروس بسلاسة، موثوق، آمن، وسهل الصيانة." },
+				{ title: "2", description: "يتبنى محول عزم دوران هيدروليكي ثنائي التوربين، تغيير سرعة بدون خطوات، نظام تحكم بسرعة بذراع واحد، مما يجعل العملية أسهل." },
+				{ title: "3", description: "مجهز بجهاز بدء تشغيل محايد، تبدأ الآلة بأكملها بأمان أكثر." },
+				{ title: "4", description: "اختياري مع ناقل حركة كهربائي، صمام تحكم كهربائي، ناقل حركة ZF الألماني، وناقل حركة هيدروليكي بمحور ثابت مع تغيير الطاقة للرافعات الشوكية." }
 			]
 		},
 		{
-			title: "LIFTING COMPONENTS",
-			id: "finishes",
-			description: "Box-type mast with roller bearings for enhanced lifting; hydraulic fork positioner for easy adjustment; Cascade forks, wear-resistant, doubles lifespan; 3.5m lift height standard.",
+			title: "مكونات الرفع",
+			id: "التشطيبات",
+			description: "سارية نوع الصندوق مع محامل أسطوانية لرفع محسن؛ محدد موقع الشوكات الهيدروليكي للتعديل السهل؛ شوكات Cascade، مقاومة للتآكل، تضاعف العمر الافتراضي؛ ارتفاع رفع قياسي 3.5 متر.",
 			image: "https://image.30tonforklift.com/home/lifiting-components.jpg",
 			options: [
-				{ title: "1", description: "Reinforced design of special mine carriage and mast; through Finite Element Analysis(FEA), it has the ability to resist and high- intensity operations." },
-				{ title: "2", description: "Standard equipped with a widened duplex mast, which enhances the torsion resistance of the mast, and has a wide field of vision; double speed limit valve oil circuit (the mast is lowered with a speed limit valve to reduce the impact of the hydraulic system), which is more safe." },
-				{ title: "3", description: "Optional with duplex and triplex free lifting mast. Standard with hydraulic heavy-duty side shift fork positioner" },
-				{ title: "4", description: "The forks are interchangeable and can be replaced quickly; Standard with Cascade brand forks , which are stronger, more wear- resistant, and can double their service time." }
-			
+				{ title: "1", description: "تصميم معزز لعربة المناجم الخاصة والسارية؛ من خلال تحليل العناصر المحدودة (FEA)، لديه القدرة على مقاومة العمليات عالية الكثافة." },
+				{ title: "2", description: "مجهز قياسيًا بسارية دوبلكس موسعة، مما يعزز مقاومة الالتواء للسارية ويوفر مجال رؤية واسع؛ دائرة زيت بصمام تحديد السرعة المزدوج (يتم خفض السارية بصمام تحديد السرعة لتقليل تأثير النظام الهيدروليكي)، مما يجعلها أكثر أمانًا." },
+				{ title: "3", description: "اختياري مع سارية رفع حر دوبلكس وتريبلكس. مجهز قياسيًا بمحدد موقع شوكات هيدروليكي للخدمة الثقيلة." },
+				{ title: "4", description: "الشوكات قابلة للتبديل ويمكن استبدالها بسرعة؛ مجهزة بشوكات ماركة Cascade، وهي أقوى، أكثر مقاومة للتآكل، ويمكن أن تضاعف وقت الخدمة." }
 			]
 		},
 		{
-			title: "HYDRAULIC SYSTEM",
-			id: "performance",
-			description: "Double pump confluence system for low flow, low power use; pilot valve control for efficiency; explosion-proof safety valve ensures pipeline safety and reliable performance.",
+			title: "النظام الهيدروليكي",
+			id: "الأداء",
+			description: "نظام تدفق مضختين لتدفق منخفض واستهلاك طاقة منخفض؛ تحكم بصمام تجريبي للكفاءة؛ صمام أمان مقاوم للانفجار يضمن سلامة الأنابيب وأداء موثوق.",
 			image: "https://image.30tonforklift.com/home/hydraulic-system.jpg",
 			options: [
-				{ title: "1", description: "Double pumps merge, steering priority hydraulic system. The system has small flow, low power consumption, reliable performance and excellent operating performance." },
-				{ title: "2", description: "The hydraulic system is equipped with oil return radiator and back pressure protection device to ensure the heat balance of the whole machine." },
-				{ title: "3", description: "The single-handle joystick control valve and electronically controlled variable speed control valve, make operation of the whole machine lighter and more flexible. Highlight the characteristics of high-quality material handling products." }
-				
+				{ title: "1", description: "تتدفق المضختان المزدوجتان، نظام هيدروليكي بأولوية التوجيه. النظام لديه تدفق منخفض، استهلاك طاقة منخفض، أداء موثوق، وأداء تشغيلي ممتاز." },
+				{ title: "2", description: "النظام الهيدروليكي مجهز بمبرد عودة الزيت وجهاز حماية من الضغط العكسي لضمان التوازن الحراري للآلة بأكملها." },
+				{ title: "3", description: "صمام التحكم بعصا التحكم أحادية المقبض وصمام التحكم في السرعة المتغيرة المتحكم به إلكترونيًا يجعلان تشغيل الآلة بأكملها أخف وأكثر مرونة. يبرزان خصائص منتجات مناولة المواد عالية الجودة." }
 			]
 		},
 		{
-			title: "CAB",
-			id: "performance1",
-			description: "Luxury wide-view cab with AC, heater, and joystick control; shock-absorbing, sound-insulated, with sunroof; adjustable steering and seating for comfort and flexible operation.",
+			title: "الكابينة",
+			id: "الأداء1",
+			description: "كابينة فاخرة بزاوية رؤية واسعة مع تكييف، مدفأة، وتحكم بعصا التحكم؛ ممتصة للصدمات، معزولة صوتيًا، مع سقف شمسي؛ توجيه ومقعد قابلان للتعديل للراحة والتشغيل المرن.",
 			image: "https://image.30tonforklift.com/home/cab.jpg",
 			options: [
-				{ title: "1", description: "The luxurious wide-view cab is equipped with a sunroof, which has low noise and good sealing, which is convenient for the driver to observe all around." },
-				{ title: "2", description: "The steering wheel is adjustable, small and dexterous, which enlarge the space for driver's leg; Supplemented by luxury airline seats to bring comfortable and flexible operation experience." },
-				{ title: "3", description: "Equipped with air-conditioner and heater; new LCD instrument (above 18 tons, optional for small tonnage) CAN integration, the engine and vehicle related parameters are integrated, high-end and beautiful appearance." },
-				{ title: "4", description: "Optional tilting cab (12-18 tons) for easy access to the interior of the vehicle for maintenance." },
-				{ title: "5", description: "All series forklifts are equipped with a reversing display screen; weight counter can be installed based on customer requirements." }
-				
+				{ title: "1", description: "الكابينة الفاخرة بزاوية رؤية واسعة مجهزة بسقف شمسي، تتميز بضوضاء منخفضة وختم جيد، مما يسهل على السائق مراقبة المناطق المحيطة." },
+				{ title: "2", description: "عجلة القيادة قابلة للتعديل، صغيرة ومرنة، مما يوسع مساحة أرجل السائق؛ مدعومة بمقاعد فاخرة على طراز الطيران لتوفير تجربة تشغيل مريحة ومرنة." },
+				{ title: "3", description: "مجهزة بتكييف ومدفأة؛ أداة LCD جديدة (فوق 18 طن، اختيارية للأطنان الصغيرة) تكامل CAN، معلمات المحرك والمركبة مدمجة، مظهر راقي وجميل." },
+				{ title: "4", description: "كابينة قابلة للإمالة اختيارية (12-18 طن) لسهولة الوصول إلى داخل المركبة للصيانة." },
+				{ title: "5", description: "جميع سلاسل الرافعات الشوكية مجهزة بشاشة عرض للرجوع للخلف؛ يمكن تركيب عداد وزن بناءً على متطلبات العميل." }
 			]
 		}
 	]
 };
 
 export const customizableProcess = {
-	title: "SOCMA Partnership Process",
-	focus: "Process",
-	description: "Partner with SOCMA for your 30 ton forklift for sale or 30 ton forklift rental. Our streamlined process ensures you get a tailored heavy-duty solution with reliable support every step of the way.",
+	title: "عملية الشراكة مع SOCMA",
+	focus: "العملية",
+	description: "شارك مع SOCMA لرافعة شوكية 30 طن للبيع أو للإيجار. عمليتنا المبسطة تضمن حصولك على حل ثقيل مخصص مع دعم موثوق في كل خطوة على الطريق.",
 	items: [
 		{
-			title: "Inquiry",
-			description: "Contact us with your needs for a 30 ton forklift. Whether you’re looking to buy, rent, or customize with attachments like tire clamps, our team responds within 24 hours to understand your requirements and start the process.",
+			title: "الاستفسار",
+			description: "اتصل بنا باحتياجاتك لرافعة شوكية 30 طن. سواء كنت تتطلع للشراء، الإيجار، أو التخصيص بملحقات مثل مشابك الإطارات، يرد فريقنا خلال 24 ساعة لفهم متطلباتك وبدء العملية.",
 			highlights: []
 		},
 		{
-			title: "Consultation",
-			description: "Our experts assess your operational needs and recommend the best 30 ton forklift setup. We guide you on engine options, like diesel or electric, and features to ensure the forklift aligns perfectly with your business goals.",
+			title: "الاستشارة",
+			description: "يقوم خبراؤنا بتقييم احتياجاتك التشغيلية ويوصون بأفضل إعداد للرافعة الشوكية 30 طن. نحن نرشدك بشأن خيارات المحرك، مثل الديزل أو الكهرباء، والميزات لضمان توافق الرافعة الشوكية تمامًا مع أهداف عملك.",
 			highlights: []
 		},
 		{
-			title: "Customization",
-			description: "We tailor your 30 ton forklift with attachments like electromagnets or container spreaders. From cabin design to hydraulic systems, we configure the forklift to meet your specific operational demands with precision.",
+			title: "التخصيص",
+			description: "نحن نخصص رافعة SOCMA 30 طن بملحقات مثل المغناطيسات الكهربائية أو موزعات الحاويات. من تصميم الكابينة إلى الأنظمة الهيدروليكية، نحن نكوّن الرافعة الشوكية لتلبية متطلباتك التشغيلية المحددة بدقة.",
 			highlights: []
 		},
 		{
-			title: "Quoting",
-			description: "Receive a competitive 30 ton forklift price quote for purchase or rental. We provide clear pricing, including delivery timelines and terms, so you can make an informed decision with confidence and transparency.",
+			title: "عرض الأسعار",
+			description: "احصل على عرض أسعار تنافسي لسعر رافعة شوكية 30 طن للشراء أو الإيجار. نحن نقدم تسعيرًا واضحًا، بما في ذلك الجداول الزمنية للتسليم والشروط، حتى تتمكن من اتخاذ قرار مستنير بثقة وشفافية.",
 			highlights: []
 		},
 		{
-			title: "Delivery",
-			description: "Your 30 ton forklift is delivered within 90 days to your location. We manage logistics and offer on-site setup support, ensuring your equipment is ready to perform in heavy-duty tasks without any delays.",
+			title: "التسليم",
+			description: "يتم تسليم رافعة SOCMA 30 طن خلال 90 يومًا إلى موقعك. نحن ندير اللوجستيات ونقدم دعم الإعداد في الموقع، مما يضمن أن معداتك جاهزة للأداء في المهام الثقيلة دون أي تأخير.",
 			highlights: []
 		},
 		{
-			title: "After-Sales",
-			description: "Benefit from 1-year quality support for your 30 ton forklift. We provide maintenance, spare parts, and technical assistance to ensure long-term reliability, keeping your operations running smoothly.",
+			title: "ما بعد البيع",
+			description: "استفد من دعم الجودة لمدة عام لرافعة SOCMA 30 طن. نحن نقدم الصيانة، قطع الغيار، والمساعدة الفنية لضمان الموثوقية على المدى الطويل، مع الحفاظ على سير عملياتك بسلاسة.",
 			highlights: []
 		}
 	]
 };
 
 export const productionCapacity = {
-	title: "SOCMA 30 Ton Forklift in Action",
-	focus: "SOCMA 30 Ton Forklift",
-	description: "Explore our 30 ton forklifts working across industries, equipped with attachments like tire clamps, electromagnets, and container spreaders for tasks in mining, steel handling, and logistics. See how they perform in real-world scenarios.",
+	title: "رافعة شوكية SOCMA 30 طن في العمل",
+	focus: "رافعة شوكية SOCMA 30 طن",
+	description: "استكشف رافعاتنا الشوكية 30 طن تعمل عبر الصناعات، مجهزة بملحقات مثل مشابك الإطارات، المغناطيسات الكهربائية، وموزعات الحاويات للمهام في التعدين، مناولة الفولاذ، واللوجستيات. شاهد كيف تعمل في سيناريوهات العالم الحقيقي.",
 	items: [
 		{
 			image: "https://image.30tonforklift.com/home/case1.jpg",
@@ -281,109 +273,109 @@ export const productionCapacity = {
 };
 
 export const faq = {
-	title: "Frequently Asked Questions",
-	focus: "Questions",
-	description: "Got questions about our 30 ton forklifts? Find answers below to help you decide on a 30 ton forklift for sale—brand new and tailored for your heavy-duty needs.",
-	cta_prefix: "Still have questions?",
-	cta_text: "Contact us",
+	title: "الأسئلة الشائعة",
+	focus: "الأسئلة",
+	description: "هل لديك أسئلة حول رافعاتنا الشوكية 30 طن؟ ابحث عن الإجابات أدناه لمساعدتك في اتخاذ قرار بشأن رافعة شوكية 30 طن للبيع — جديدة ومصممة خصيصًا لاحتياجاتك الثقيلة.",
+	cta_prefix: "هل لديك المزيد من الأسئلة؟",
+	cta_text: "اتصل بنا",
 	cta_link: "/contact",
 	items: [
 		{
-			question: "What is the price of a 30 ton forklift?",
-			answer: "Our 30 ton forklift price varies based on configuration and attachments. Contact us for a competitive quote tailored to your needs for a brand-new unit."
+			question: "ما هو سعر رافعة شوكية 30 طن؟",
+			answer: "يختلف سعر رافعة SOCMA 30 طن بناءً على التكوين والملحقات. اتصل بنا للحصول على عرض أسعار تنافسي مصمم خصيصًا لاحتياجاتك لوحدة جديدة."
 		},
 		{
-			question: "What industries use a 30 ton forklift?",
-			answer: "Our 30 ton forklifts are used in mining, steel smelting, construction, petrochemicals, logistics, and manufacturing, handling heavy loads with ease."
+			question: "ما هي الصناعات التي تستخدم رافعة شوكية 30 طن؟",
+			answer: "تُستخدم رافعاتنا الشوكية 30 طن في التعدين، صهر الفولاذ، البناء، البتروكيماويات، اللوجستيات، والتصنيع، وتتعامل مع الأحمال الثقيلة بسهولة."
 		},
 		{
-			question: "What are the controls like on a 30 ton forklift?",
-			answer: "The 30 ton forklift controls feature ergonomic hydraulic joysticks and a luxury cabin, ensuring precise operation and operator comfort during heavy-duty tasks."
+			question: "كيف هي أدوات التحكم في رافعة شوكية 30 طن؟",
+			answer: "تتميز أدوات التحكم في رافعة SOCMA 30 طن بعصي تحكم هيدروليكية مريحة وكابينة فاخرة، مما يضمن التشغيل الدقيق وراحة المشغل أثناء المهام الثقيلة."
 		},
 		{
-			question: "How do I use a 30 ton forklift safely?",
-			answer: "Our 30 ton forklift how to use guide includes operator training. With safety features like load-sensing hydraulics, it ensures safe handling of heavy loads."
+			question: "كيف أستخدم رافعة شوكية 30 طن بأمان؟",
+			answer: "يتضمن دليل استخدام رافعة SOCMA 30 طن تدريب المشغلين. مع ميزات السلامة مثل الهيدروليك الحساس للحمل، يضمن التعامل الآمن مع الأحمال الثقيلة."
 		},
 		{
-			question: "What is the capacity of a 30 ton forklift?",
-			answer: "Our 30 ton capacity forklifts can lift up to 30,000 KGS at a 1250 mm load center, perfect for heavy-duty applications like steel handling and logistics."
+			question: "ما هي سعة رافعة شوكية 30 طن؟",
+			answer: "يمكن لرافعاتنا الشوكية بسعة 30 طن رفع ما يصل إلى 30,000 كجم عند مركز تحميل 1250 مم، مثالية لتطبيقات الخدمة الثقيلة مثل مناولة الفولاذ واللوجستيات."
 		}
 	]
 };
 
 export const testimonials = {
-	title: "Customer Testimonials",
-	focus: "Testimonials",
-	description: "Hear from our satisfied clients worldwide who trust SOCMA’s 30 ton forklifts for their heavy-duty operations. From mining to manufacturing, our 30 ton forklift for sale delivers reliable performance across industries.",
+	title: "شهادات العملاء",
+	focus: "الشهادات",
+	description: "استمع إلى عملائنا الراضين في جميع أنحاء العالم الذين يثقون برافعات SOCMA 30 طن لعملياتهم الثقيلة. من التعدين إلى التصنيع، تقدم رافعة SOCMA 30 طن للبيع أداءً موثوقًا عبر الصناعات.",
 	items: [
 		{
-			name: "Agus Santoso",
+			name: "أجوس سانتوسو",
 			image: "https://image.30tonforklift.com/home/t1.jpg",
-			position: "Operations Manager, PT Mining Solutions, Indonesia",
-			comment: "SOCMA’s 30 ton forklift has been a game-changer for our coal mining operations. The tire clamps make vehicle maintenance so much easier, and its durability in harsh conditions is impressive. We’ve increased efficiency by 30% thanks to this reliable machine."
+			position: "مدير العمليات، PT Mining Solutions، إندونيسيا",
+			comment: "لقد غيرت رافعة SOCMA 30 طن قواعد اللعبة في عمليات تعدين الفحم لدينا. تجعل مشابك الإطارات صيانة المركبات أسهل بكثير، ومتانتها في الظروف القاسية مثيرة للإعجاب. لقد زادنا الكفاءة بنسبة 30% بفضل هذه الآلة الموثوقة."
 		},
 		{
-			name: "Carlos Mendes",
+			name: "كارلوس مينديز",
 			image: "https://image.30tonforklift.com/home/t2.jpg",
-			position: "Plant Supervisor, AçoBrasil Ltda, Brazil",
-			comment: "We purchased a 30 ton forklift with electromagnets for our steel smelting plant, and it’s been outstanding. It handles heavy steel profiles effortlessly, saving us time and reducing risks. SOCMA’s support team is also very responsive."
+			position: "مشرف المصنع، AçoBrasil Ltda، البرازيل",
+			comment: "اشترينا رافعة شوكية 30 طن مع مغناطيسات كهربائية لمصنع صهر الفولاذ لدينا، وقد كانت رائعة. تتعامل مع مقاطع الفولاذ الثقيلة بسهولة، مما يوفر لنا الوقت ويقلل المخاطر. فريق دعم SOCMA أيضًا متجاوب للغاية."
 		},
 		{
-			name: "Thandiwe Ndlovu",
+			name: "ثانديوي ندلوفو",
 			image: "https://image.30tonforklift.com/home/t3.jpg",
-			position: "Quarry Manager, StoneTech SA, South Africa",
-			comment: "The 30 ton forklift from SOCMA is perfect for our quarry. It moves raw stone blocks with stability, even on rough terrain. The reinforced forks and powerful engine have boosted our productivity significantly. Highly recommend it."
+			position: "مدير المحجر، StoneTech SA، جنوب إفريقيا",
+			comment: "رافعة SOCMA 30 طن مثالية لمحجرنا. تنقل كتل الحجارة الخام بثبات، حتى على التضاريس الوعرة. الشوكات المعززة والمحرك القوي قد عززا إنتاجيتنا بشكل كبير. أوصي بها بشدة."
 		},
 		{
-			name: "Luis Vargas",
+			name: "لويس فارغاس",
 			image: "https://image.30tonforklift.com/home/t4.jpg",
-			position: "Site Foreman, ConstruPeru SAC, Peru",
-			comment: "SOCMA’s 30 ton forklift has improved our construction workflow. It handles cement prefabricated products with ease, and the ergonomic controls reduce operator fatigue. Delivery was on time, and the machine is built to last."
+			position: "مشرف الموقع، ConstruPeru SAC، بيرو",
+			comment: "لقد حسنت رافعة SOCMA 30 طن سير عمل البناء لدينا. تتعامل مع المنتجات الأسمنتية المسبقة الصنع بسهولة، وتقلل أدوات التحكم المريحة من إجهاد المشغل. كانت التوريد في الوقت المحدد، والآلة مصممة لتدوم."
 		},
 		{
-			name: "Chidi Okonkwo",
+			name: "شيدي أوكونكو",
 			image: "https://image.30tonforklift.com/home/t5.jpg",
-			position: "Operations Lead, PetroNigeria Ltd, Nigeria",
-			comment: "We needed a reliable solution for transporting petroleum pipes, and SOCMA’s 30 ton forklift with pipe stabilizers delivered. It’s safe, efficient, and the electric option helps us meet environmental standards. Great investment."
+			position: "قائد العمليات، PetroNigeria Ltd، نيجيريا",
+			comment: "كنا بحاجة إلى حل موثوق لنقل أنابيب البترول، وقد قدمت رافعة SOCMA 30 طن مع مثبتات الأنابيب. إنها آمنة، فعالة، والخيار الكهربائي يساعدنا على تلبية المعايير البيئية. استثمار رائع."
 		},
 		{
-			name: "Hans Müller",
+			name: "هانز مولر",
 			image: "https://image.30tonforklift.com/home/t6.jpg",
-			position: "Production Manager, WindTech GmbH, Germany",
-			comment: "Our wind power plant relies on SOCMA’s 30 ton forklift to move heavy wind tower components. The precision and lifting capacity are top-notch, and it has streamlined our factory operations. The after-sales support is excellent."
+			position: "مدير الإنتاج، WindTech GmbH، ألمانيا",
+			comment: "يعتمد مصنع طاقة الرياح لدينا على رافعة SOCMA 30 طن لنقل مكونات أبراج الرياح الثقيلة. الدقة وسعة الرفع من الطراز الأول، وقد حسنت عمليات مصنعنا. دعم ما بعد البيع ممتاز."
 		}
 	]
 };
 
 export const cta = {
-	title: "Let's Talk",
-	focus: "Talk",
-	description: "We're here to help you with your needs. Let's talk about how we can help you.",
+	title: "لنتحدث",
+	focus: "الحديث",
+	description: "نحن هنا لمساعدتك في احتياجاتك. دعنا نتحدث عن كيف يمكننا مساعدتك.",
 	cards: [
 		{
-			title: "Contact Us",
+			title: "اتصل بنا",
 			href: "/contact",
-			icon: "File",
-			description: "Contact us to get started."
+			icon: "ملف",
+			description: "اتصل بنا للبدء."
 		},
 		{
-			title: "About Us",
+			title: "معلومات عنا",
 			href: "/about",
-			icon: "Book",
-			description: "Email us to get started."
+			icon: "كتاب",
+			description: "أرسل بريدًا إلكترونيًا لنا للبدء."
 		}
 	]
 };
 
 export const footer = {
-	brand: "© 2025 B For Anything | All rights reserved.",
+	brand: "© 2025 SOCMA | جميع الحقوق محفوظة.",
 	policies: [
 		{
-			title: "Terms of Service",
+			title: "شروط الخدمة",
 			href: "/terms-of-service"
 		},
 		{
-			title: "Privacy Policy",
+			title: "سياسة الخصوصية",
 			href: "/privacy-policy"
 		}
 	]

@@ -1,57 +1,57 @@
 export const about = {
 	header: {
-		title: "About Us",
-		focus: "About",
-		description: "Founded in March 2010, SOCMA (Fujian SouthChina Heavy Machinery Manufacture Co., Ltd.) is a high-tech enterprise based in Quanzhou, Fujian Province. We specialize in logistics handling and electric construction machinery, offering innovative solutions like heavy forklifts, off-road forklifts, telescopic forklifts, port machinery, electric excavators, and loaders."
+		title: "معلومات عنا",
+		focus: "عنا",
+		description: "تأسست شركة SOCMA (شركة فوجيان ساوث تشاينا لتصنيع الآلات الثقيلة المحدودة) في مارس 2010، وهي شركة ذات تقنية عالية مقرها في تشيوانتشو، مقاطعة فوجيان. نحن متخصصون في معدات المناولة اللوجستية والآلات الكهربائية للبناء، ونقدم حلولًا مبتكرة مثل الرافعات الشوكية الثقيلة، الرافعات الشوكية للأراضي الوعرة، الرافعات الشوكية التلسكوبية، الآلات المينائية، الحفارات الكهربائية، واللوادر."
 	},
 	about_us: {
-		title: "Who We Are",
+		title: "من نحن",
 		image: "https://image.30tonforklift.com/home/about-us.jpg",
 		description: [
-			"SOCMA, founded in 2010 in Quanzhou, Fujian, is a high-tech leader in logistics handling and electric construction machinery. We produce heavy forklifts, off-road forklifts, telescopic forklifts, port machinery, and electric excavators, serving industries globally.",
-			"We export to over 40 countries across Europe, South America, Southeast Asia, the Middle East, and Africa. Known for quick customer response and high-quality customization, SOCMA is a trusted partner in mining, ports, logistics, and manufacturing, delivering reliable solutions.",
-			"Our mission is to provide cutting-edge machinery while staying customer-centric. Collaborating with the Chinese Academy of Sciences, we innovate with technologies like new energy and electric control, aiming to make SOCMA a globally respected brand."
+			"تأسست SOCMA في عام 2010 في تشيوانتشو، فوجيان، وهي رائدة في التكنولوجيا العالية في معدات المناولة اللوجستية وآلات البناء الكهربائية. نحن ننتج الرافعات الشوكية الثقيلة، الرافعات الشوكية للأراضي الوعرة، الرافعات الشوكية التلسكوبية، الآلات المينائية، والحفارات الكهربائية، ونخدم الصناعات على مستوى العالم.",
+			"نصدر منتجاتنا إلى أكثر من 40 دولة في أوروبا، أمريكا الجنوبية، جنوب شرق آسيا، الشرق الأوسط، وأفريقيا. تشتهر SOCMA بردودها السريعة للعملاء والتخصيص عالي الجودة، وهي شريك موثوق في التعدين، الموانئ، اللوجستيات، والتصنيع، مقدمة حلولًا موثوقة.",
+			"مهمتنا هي توفير آلات متطورة مع الحفاظ على التركيز على العملاء. بالتعاون مع الأكاديمية الصينية للعلوم، نبتكر باستخدام تقنيات مثل الطاقة الجديدة والتحكم الكهربائي، بهدف جعل SOCMA علامة تجارية محترمة عالميًا."
 		]
 	},
 	vision_value: [
 		{
-			title: "Our Mission",
-			description: "To provide customers with leading logistics handling machinery and electric construction machinery products and services."
+			title: "مهمتنا",
+			description: "توفير منتجات وخدمات رائدة في مجال معدات المناولة اللوجستية وآلات البناء الكهربائية للعملاء."
 		},
 		{
-			title: "Our Vision",
-			description: "To make SOCMA globally respected brand."
+			title: "رؤيتنا",
+			description: "جعل SOCMA علامة تجارية محترمة عالميًا."
 		},
 		{
-			title: "Our Values",
-			description: "Customer-centric, people-oriented, self-critical and reflective, SOCMA will remain in the growth stage."
+			title: "قيمنا",
+			description: "مركزية العميل، التوجه نحو الأفراد، النقد الذاتي والتفكير، ستبقى SOCMA في مرحلة النمو."
 		}
 	],
 	why_choose_us: {
-		title: "Why Choose Us",
+		title: "لماذا تختارنا",
 		image: "https://image.30tonforklift.com/home/why-choose-us.jpg",
 		description: [
-			"SOCMA’s 30 ton forklifts are built for heavy-duty performance, offering unmatched reliability in industries like mining and steel handling. With advanced technology and durable design, our forklifts ensure efficient operations under tough conditions.",
-			"We prioritize customization, tailoring each 30 ton forklift to your needs with attachments like tire clamps or electromagnets. Our global supply chain sources top-quality components, ensuring your equipment meets the highest standards.",
-			"Our customer-centric approach means quick responses and dedicated support. From consultation to after-sales, SOCMA ensures your 30 ton forklift delivers long-term value, backed by innovation and a global network."
+			"تم تصميم الرافعات الشوكية بوزن 30 طنًا من SOCMA للأداء الثقيل، وتوفر موثوقية لا مثيل لها في صناعات مثل التعدين ومناولة الصلب. بفضل التكنولوجيا المتقدمة والتصميم المتين، تضمن رافعاتنا الشوكية عمليات فعالة في ظل ظروف صعبة.",
+			"نحن نعطي الأولوية للتخصيص، ونصمم كل رافعة شوكية بوزن 30 طنًا وفقًا لاحتياجاتك مع ملحقات مثل مشابك الإطارات أو المغناطيسات الكهربائية. سلسلة التوريد العالمية لدينا توفر مكونات عالية الجودة، مما يضمن أن معداتك تلبي أعلى المعايير.",
+			"نهجنا المتمحور حول العميل يعني استجابات سريعة ودعمًا مخصصًا. من الاستشارة إلى خدمة ما بعد البيع، تضمن SOCMA أن تقدم الرافعة الشوكية بوزن 30 طنًا قيمة طويلة الأمد، مدعومة بالابتكار وشبكة عالمية."
 		]
 	},
 	our_capabilities: [
 		{
-			title: "Superior Durability",
-			description: "Our 30 ton forklifts are engineered for tough environments, ensuring long-lasting performance."
+			title: "متانة فائقة",
+			description: "تم تصميم الرافعات الشوكية بوزن 30 طنًا للبيئات القاسية، مما يضمن أداءً طويل الأمد."
 		},
 		{
-			title: "Custom Solutions",
-			description: "We tailor each 30 ton forklift with attachments to meet your specific industry needs."
+			title: "حلول مخصصة",
+			description: "نصمم كل رافعة شوكية بوزن 30 طنًا مع ملحقات لتلبية احتياجات صناعتك الخاصة."
 		},
 		{
-			title: "Global Expertise",
-			description: "With exports to 40+ countries, we bring global standards to every 30 ton forklift."
+			title: "خبرة عالمية",
+			description: "مع الصادرات إلى أكثر من 40 دولة، نحن نجلب المعايير العالمية لكل رافعة شوكية بوزن 30 طنًا."
 		},
 		{
-			title: "Dedicated Support",
-			description: "SOCMA offers responsive service, ensuring your 30 ton forklift runs smoothly."
+			title: "دعم مخصص",
+			description: "تقدم SOCMA خدمة سريعة الاستجابة، مما يضمن تشغيل الرافعة الشوكية بوزن 30 طنًا بسلاسة."
 		}
 	]
 };

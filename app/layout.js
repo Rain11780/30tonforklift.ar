@@ -12,39 +12,42 @@ export const runtime = "edge";
 
 export const metadata = {
 	title: {
-		default: "SOCMA|30 Ton Forklift Built for Your Toughest Challenges",
-		template: "SOCMA 30 Ton Forklift"
+	default: "SOCMA | رافعة شوكية بقدرة 30 طن مصممة لأصعب التحديات",
+	template: "SOCMA رافعة شوكية 30 طن"
 	},
-	description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond.",
+	description:
+	"عزز عملياتك باستخدام رافعة شوكية بقدرة 30 طن مصممة للصناعات الثقيلة. من مناولة الإطارات في مناجم الفحم إلى صهر الفولاذ باستخدام المغناطيسات الكهربائية، مرورًا باستخراج الأحجار والخدمات اللوجستية للحاويات، توفر HNF-300 من SOCMA موثوقية لا مثيل لها. هل تبحث عن رافعة شوكية بوزن 30 طن للبيع أو للإيجار؟ نحن نوفر لك ذلك – سواء في سيدني أو مونتغمري أو في أي مكان آخر.",
 	openGraph: {
-		title: "SOCMA 30 Ton Forklift",
-		description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond.",
-		images: [
-			{
-				url: "/opengraph-image.png",
-				width: 1200,
-				height: 630,
-				alt: "SOCMA 30 Ton Forklift"
-			}
-		],
-		locale: "en_US",
-		type: "website"
+	title: "SOCMA رافعة شوكية 30 طن",
+	description:
+	"عزز عملياتك باستخدام رافعة شوكية بقدرة 30 طن مصممة للصناعات الثقيلة. من مناولة الإطارات في مناجم الفحم إلى صهر الفولاذ باستخدام المغناطيسات الكهربائية، مرورًا باستخراج الأحجار والخدمات اللوجستية للحاويات، توفر HNF-300 من SOCMA موثوقية لا مثيل لها. هل تبحث عن رافعة شوكية بوزن 30 طن للبيع أو للإيجار؟ نحن نوفر لك ذلك – سواء في سيدني أو مونتغمري أو في أي مكان آخر.",
+	images: [
+	{
+	url: "/opengraph-image.png",
+	width: 1200,
+	height: 630,
+	alt: "SOCMA رافعة شوكية 30 طن"
+	}
+	],
+	locale: "ar_AE",
+	type: "website"
 	},
 	twitter: {
-		card: "summary_large_image",
-		title: {
-			default: "SOCMA 30 Ton Forklift",
-			template: "SOCMA 30 Ton Forklift"
-		},
-		description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond.",
-		images: [
-			{
-				url: "/opengraph-image.png",
-				alt: "SOCMA 30 Ton Forklift"
-			}
-		]
+	card: "summary_large_image",
+	title: {
+	default: "SOCMA رافعة شوكية 30 طن",
+	template: "SOCMA رافعة شوكية 30 طن"
+	},
+	description:
+	"عزز عملياتك باستخدام رافعة شوكية بقدرة 30 طن مصممة للصناعات الثقيلة. من مناولة الإطارات في مناجم الفحم إلى صهر الفولاذ باستخدام المغناطيسات الكهربائية، مرورًا باستخراج الأحجار والخدمات اللوجستية للحاويات، توفر HNF-300 من SOCMA موثوقية لا مثيل لها. هل تبحث عن رافعة شوكية بوزن 30 طن للبيع أو للإيجار؟ نحن نوفر لك ذلك – سواء في سيدني أو مونتغمري أو في أي مكان آخر.",
+	images: [
+	{
+	url: "/opengraph-image.png",
+	alt: "SOCMA رافعة شوكية 30 طن"
 	}
-};
+	]
+	}
+	};
 
 export default function RootLayout({ children }) {
 	return (

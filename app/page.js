@@ -8,9 +8,9 @@ import FAQ from "@/components/features/faq";
 
 // Metadata
 export const metadata = {
-	title: "SOCMA | 30 Ton Forklift Built for Your Toughest Challenges",
-	description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond."
-};
+	title: "SOCMA | رافعة شوكية بوزن 30 طن صُممت لأصعب التحديات",
+	description: "عزّز عملياتك باستخدام رافعة شوكية بوزن 30 طن مصممة للصناعات الثقيلة. من مناولة إطارات التعدين إلى صهر الفولاذ باستخدام المغانط الكهربائية، واستخراج الحجارة، ولوجستيات الحاويات – توفر HNF-300 من SOCMA موثوقية لا مثيل لها. هل تبحث عن رافعة شوكية 30 طن للبيع أو للإيجار؟ نحن هنا من أجلك – سواء كنت في سيدني أو مونتغومري أو أي مكان آخر."
+  };
 
 // Structured Data
 const jsonLd = {
